@@ -1,0 +1,14 @@
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/bin/Debug/net10.0/GiftCraft
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/bin/Debug/net10.0/GiftCraft.deps.json
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/bin/Debug/net10.0/GiftCraft.runtimeconfig.json
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/bin/Debug/net10.0/GiftCraft.dll
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/bin/Debug/net10.0/GiftCraft.pdb
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/obj/Debug/net10.0/GiftCraft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/obj/Debug/net10.0/GiftCraft.AssemblyInfoInputs.cache
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/obj/Debug/net10.0/GiftCraft.AssemblyInfo.cs
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/obj/Debug/net10.0/GiftCraft.csproj.CoreCompileInputs.cache
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/obj/Debug/net10.0/GiftCraft.dll
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/obj/Debug/net10.0/refint/GiftCraft.dll
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/obj/Debug/net10.0/GiftCraft.pdb
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/obj/Debug/net10.0/GiftCraft.genruntimeconfig.cache
+/Users/duaaalamri/Desktop/Projects/GiftCraft/GiftCraft/obj/Debug/net10.0/ref/GiftCraft.dll
