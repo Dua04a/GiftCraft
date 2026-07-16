@@ -1,18 +1,18 @@
 # GiftCraft
 
-## About
+## Overview
 
-GiftCraft is a simple C# console application that I created to practice Object-Oriented Programming and some design patterns.
+GiftCraft is a C# console application that allows users to create a personalized gift box based on the occasion and budget.
 
-The idea of the project is to help users create a gift box by choosing an occasion, selecting a budget, and adding gifts to the box.
+The project was built to practice Object-Oriented Programming (OOP) principles and apply design patterns in a simple real-world scenario.
 
 ## Features
 
-- Choose an occasion.
-- Choose a budget.
-- Add one or more gifts.
-- Show the final gift summary.
-- Calculate the total price.
+- Select an occasion
+- Set a budget
+- Add gifts to the gift box
+- View the final gift summary
+- Calculate the total cost
 
 ## Design Patterns
 
@@ -20,36 +20,16 @@ The idea of the project is to help users create a gift box by choosing an occasi
 - Factory Pattern
 - Strategy Pattern
 
-## Technologies
+## Technologies Used
 
 - C#
 - .NET
-- OOP
-- Git
-- GitHub
-
-## Project Structure
-
-```
-Builders/
-Factories/
-Interfaces/
-Models/
-Services/
-Strategies/
-Program.cs
-```
+- Object-Oriented Programming (OOP)
 
 ## How to Run
 
 1. Clone the repository.
-
-```bash
-git clone https://github.com/Dua04a/GiftCraft.git
-```
-
-2. Open the project.
-
+2. Open the project in Visual Studio or Visual Studio Code.
 3. Run the application.
 
 ```bash
@@ -58,8 +38,4 @@ dotnet run
 
 ## What I Learned
 
-While working on this project, I practiced using design patterns, organizing a project into different folders, and using Git and GitHub to manage my code.
-
-## Author
-
-Duaa Alamri
+Through this project, I improved my understanding of OOP concepts and learned how to implement design patterns to write more organized and maintainable code.
